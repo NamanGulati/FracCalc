@@ -6,17 +6,17 @@ public class FracCalc {
  
         Scanner scan = new Scanner(System.in);
  
-        // read a LINE of user input and check if == "quit"
+        
         //System.out.println("Enter your equation...");
         String control = JOptionPane.showInputDialog(null, "Enter your equation in this format: \n Numerator1/Denominator1 + Numerator2/Denominator2\n Example: 1/2 + 1/2"); 
  
-        // declare string variables to store tokens read from scanner
+        
         String frac1 = "";
         String op = "";
         String frac2 = "";
         String reducedExpression = "";
  
-        // command loop - continue until user enters quitt
+       
         try{
         while (!control.equalsIgnoreCase("quit")) {
  
