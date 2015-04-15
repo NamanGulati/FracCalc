@@ -6,3 +6,7 @@ then open the FracCalcMultiOp.java in your java complier and compile + run the p
 #Credits
 This was a class project that I did for AP Computer Science
 credits to Don Irwin (@viperguynaz) and the coolest teacher--Mr. Komarinski(@alexkomarinski)
+
+
+
+PLEASE FORK MY REPOSITTORY
