@@ -1,7 +1,7 @@
 import java.util.*;
 import javax.swing.*;
  
-public class FracCalcMultiOp {
+public class FracCalc {
     public static void main(String[] args) {
  
         Scanner scan = new Scanner(System.in);
